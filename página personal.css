@@ -26,8 +26,10 @@ h3{
 p, li{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
+    text-align: justify;
 }
 table{
+    margin-left: 19%;
     color: black;
     border: white solid;
     text-align: center;
@@ -48,6 +50,7 @@ h4{
 }
 .img{
     float: right;
+    margin-right: 2%;
     height: 400px;
     width: 450px;
     border-radius: 0%;
@@ -78,4 +81,9 @@ button{
     width: 100%;
     background-color:rgb(235, 222, 222);
     border: 2px rgb(148, 134, 108) solid;
+}
+i{
+    margin: auto;
+    font-size: 70%;
+    color: rgb(44, 44, 36);
 }
