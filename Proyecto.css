@@ -1,0 +1,75 @@
+*{
+    background-color: rgb(207, 207, 187);
+    padding-right: 15px;
+    padding-left: 15px;
+}
+h1{
+    text-align: center;
+    font-size: 42px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(61, 61, 44);
+    color: white;
+}
+img{
+    width: 450px;
+    float: right;
+    padding-left: 3%;
+}
+table{
+    font-size: 14px;
+    border: rgb(61, 61, 44) solid;
+    border-width: 5px;
+    padding: 0%;
+}
+th{
+    color: white;
+    background-color: rgb(92, 92, 66);
+    border: rgb(61, 61, 44) solid;
+    border-width: 5px;
+    text-align: center;
+}
+td{
+    color: black;
+    background-color: rgb(221, 216, 148);
+    border: rgb(61, 61, 44) solid;
+    border-width: 5px;
+}
+p, li, td, h5{
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+h3{
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(92, 92, 66);
+    color: white;
+    text-align: center;
+}
+.img1, .img2{
+    width: 355px;
+    float: left;
+    border-radius: 15%;
+    padding-left: 1%;
+    padding-right: 3%;
+}
+h2{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(61, 61, 44);
+    color: white;
+    text-align: center;
+}
+.div1{
+    padding-left: 2%;
+}
+h4{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(180, 180, 136);
+    color: black;
+}
+i{
+    font-size: 70%;
+    color: rgb(44, 44, 36);
+}
